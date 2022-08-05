@@ -11,3 +11,5 @@ https://nusstore.glitch.me/items]. (Note: display only item id, item name and pr
 - In third div, create a paragraph and share your learning experience in couple of lines.
 
 live: https://jabir-devtoolkit1-final-assessment.netlify.app/
+
+DISCLAIMER: code is not clean and included all raw files
